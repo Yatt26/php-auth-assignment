@@ -1,10 +1,3 @@
-dino|randompasswordhere
-iszuddin|KudaBelang
-ali|HarimauBintang
-husin|HujanPanas
-siti|MimpiIndah
-raju|SemalamRibut
-abu|RimbaHijau
-jetli|TaichiMaster
-jackie|DrunkenMaster
-donnie|IpManWingChun
+hayati@gmail.com|abc123
+testuser@gmail.com|test123
+aliputra@rocket.mail|pom9_
